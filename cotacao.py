@@ -67,7 +67,7 @@ combobox_moeda = tb.Combobox(janela, values=lista_moedas, bootstyle='primary')
 combobox_moeda.grid(row=1, column=2, pady=10, padx=10, sticky='nsew')
 
 
-selecionar_dia_label = tb.Label(text='Selecione o dia que deseja pegar a cotação:', bootstyle='primary')
+selecionar_dia_label = tb.Label(text='Selecione o dia que deseja pegar a cotação:', bootstyle='success')
 selecionar_dia_label.grid(row=2, column=0, padx=10, pady=10, columnspan=2, sticky='nsew')
 
 
@@ -112,7 +112,7 @@ for linha in range(7 + len(lista_moedas) // num_colunas):
     janela.grid_rowconfigure(linha, weight=1, uniform='group1')
 
 
-data_final = tb.Label(text='Selecione o dia que deseja pegar a cotação:', bootstyle='primary')
+data_final = tb.Label(text='Selecione o dia que deseja pegar a cotação:', bootstyle='success')
 data_final.grid(row=8 + num_linhas, column=0, padx=10, pady=10)
 
 
@@ -129,3 +129,4 @@ texto_cotacoes.grid(row=9 + num_linhas, column=0, columnspan=2, pady=10, padx=10
 
 
 janela.mainloop()
+
