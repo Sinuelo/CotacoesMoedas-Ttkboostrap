@@ -9,5 +9,7 @@
 ## Uma outra versão do projeto de busca de cotações de moedas feito anteriormente, porém, agora, feito com ttkbootstrap, deixando tudo mais estilizado 
 
 # <br>:desktop_computer: Preview
-![cotacaottk](https://github.com/Sinuelo/Sistema-de-Busca-de-Cotacoes-de-Moedas/assets/98895433/1ba4120f-d05e-4ea6-afc5-b254b4aaa137)
+![cotacaottk](https://github.com/Sinuelo/CotacoesMoedas-Ttkboostrap/assets/98895433/05d3a4d4-a3c6-4cac-b6f6-9a170592a016)
+
 # :star:API usada: https://docs.awesomeapi.com.br/api-de-moedas
+
