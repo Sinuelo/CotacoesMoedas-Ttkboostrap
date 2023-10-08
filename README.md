@@ -2,8 +2,8 @@
 
 
 # :gear: Requisitos
-### requests
-### ttkbootstrap
+### [requests](https://requests.readthedocs.io/en/latest/)
+### [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/)
 
 # <br>:hammer_and_wrench: Descrição
 ## Uma outra versão do projeto de busca de cotações de moedas feito anteriormente, porém, agora, feito com ttkbootstrap, deixando tudo mais estilizado 
